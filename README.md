@@ -1,4 +1,5 @@
 # ECE Placements App
+## By Diganth P
 # App Screenshots
 ### **The Timeline: This page consists of all the information hosted on the cloud. It retrieves the information from Firebase**
 ![Timeline](https://github.com/diganthp/ECE-Placements-App/blob/master/Images/Screenshot_20180615-035247.jpg)
